@@ -24,11 +24,11 @@ Each upstream skill is fetched and **validated by agentcheck**; only skills with
 | `anthropic-web-artifacts-builder` | synced | 0 | 0 | https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/SKILL.md |
 | `anthropic-webapp-testing` | synced | 0 | 0 | https://raw.githubusercontent.com/anthropics/skills/main/skills/webapp-testing/SKILL.md |
 | `anthropic-xlsx` | synced | 0 | 0 | https://raw.githubusercontent.com/anthropics/skills/main/skills/xlsx/SKILL.md |
-| `anthropic-plugin-agent-dev` | rejected (has errors) | 1 | 0 | https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/plugin-dev/skills/agent-development/SKILL.md |
-| `anthropic-plugin-command-dev` | rejected (has errors) | 1 | 0 | https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/plugin-dev/skills/command-development/SKILL.md |
-| `anthropic-plugin-hook-dev` | rejected (has errors) | 1 | 0 | https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/plugin-dev/skills/hook-development/SKILL.md |
-| `anthropic-plugin-mcp-integration` | rejected (has errors) | 1 | 0 | https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/plugin-dev/skills/mcp-integration/SKILL.md |
-| `anthropic-hookify-writing-rules` | rejected (has errors) | 1 | 0 | https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/hookify/skills/writing-rules/SKILL.md |
+| `anthropic-plugin-agent-dev` | skipped (fetch failed: HTTP 404) | - | - | plugins/plugin-dev/skills/agent-development/SKILL.md |
+| `anthropic-plugin-command-dev` | skipped (fetch failed: HTTP 404) | - | - | plugins/plugin-dev/skills/command-development/SKILL.md |
+| `anthropic-plugin-hook-dev` | skipped (fetch failed: HTTP 404) | - | - | plugins/plugin-dev/skills/hook-development/SKILL.md |
+| `anthropic-plugin-mcp-integration` | skipped (fetch failed: HTTP 404) | - | - | plugins/plugin-dev/skills/mcp-integration/SKILL.md |
+| `anthropic-hookify-writing-rules` | skipped (fetch failed: HTTP 404) | - | - | plugins/hookify/skills/writing-rules/SKILL.md |
 | `cookbook-financial-statements` | synced | 0 | 0 | https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/skills/custom_skills/analyzing-financial-statements/SKILL.md |
 | `cookbook-brand-guidelines` | synced | 0 | 0 | https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/skills/custom_skills/applying-brand-guidelines/SKILL.md |
 | `cookbook-financial-models` | synced | 0 | 0 | https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/skills/custom_skills/creating-financial-models/SKILL.md |
