@@ -5,26 +5,26 @@ Each generated `.mcp.json` is validated by agentcheck; only 0-error servers are 
 
 | server | status |
 |---|---|
-| `filesystem` | synced @2026.1.14 |
+| `filesystem` | synced @2.4.0 |
 | `github` | synced @2025.4.8 |
-| `memory` | synced @2026.1.26 |
-| `sequential-thinking` | synced @2025.12.18 |
-| `everything` | synced @2026.1.26 |
-| `fetch` | synced @2026.6.4 |
-| `git` | synced @2026.6.16 |
-| `time` | synced @2026.6.4 |
+| `memory` | synced @2.2.1 |
+| `sequential-thinking` | synced @2.2.0 |
+| `everything` | synced @2.3.1 |
+| `fetch` | synced @2026.11.18 |
+| `git` | synced @2026.11.18 |
+| `time` | synced @2026.11.18 |
 | `sqlite` | synced @2025.4.25 |
-| `playwright` | synced @0.0.76 |
+| `playwright` | synced @0.0.86 |
 | `puppeteer` | synced @0.7.2 |
 | `postgres` | synced @1.0.1 |
-| `notion` | synced @2.4.0 |
-| `exa` | synced @3.2.1 |
-| `firecrawl` | synced @3.21.0 |
-| `tavily` | synced @0.2.20 |
-| `context7` | synced @3.2.1 |
-| `supabase` | synced @0.8.2 |
-| `mongodb` | synced @1.13.0 |
-| `stripe` | synced @0.3.3 |
+| `notion` | synced @2.6.1 |
+| `exa` | synced @3.5.1 |
+| `firecrawl` | synced @3.41.0 |
+| `tavily` | synced @0.2.22 |
+| `context7` | synced @4.7.3 |
+| `supabase` | synced @0.19.0 |
+| `mongodb` | synced @3.3.0 |
+| `stripe` | synced @0.3.4 |
 | `sentry` | synced @2025.1.14 |
 | `slack` | synced @2025.4.25 |
 | `brave-search` | synced @0.6.2 |
